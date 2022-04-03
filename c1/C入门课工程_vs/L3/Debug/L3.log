@@ -1,0 +1,9 @@
+﻿  main.c
+D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\main.c(9,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\main.c(73,38): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\main.c(74,38): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\main.c(78,34): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+  L3.vcxproj -> D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\Debug\L3.exe
+  系统找不到指定的文件。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: 命令“copy D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\raylib\lib\raylib.dll D:\FE\programm\advanced FE\LearnC\learn_c\c1\C入门课工程_vs\Debug
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: :VCEnd”已退出，代码为 1。

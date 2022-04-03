@@ -1,0 +1,18 @@
+﻿  main.c
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\raylib\include\kbc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\main.c(86,41): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\main.c(87,41): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\main.c(91,37): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+  kbc.c
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\raylib\include\kbc.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\raylib\include\kbc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+raylib.lib(rcore.obj) : warning LNK4099: 未找到 PDB“raylib.pdb”(使用“raylib.lib(rcore.obj)”或在“D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\raylib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+raylib.lib(rglfw.obj) : warning LNK4099: 未找到 PDB“raylib.pdb”(使用“raylib.lib(rglfw.obj)”或在“D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\raylib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+raylib.lib(rshapes.obj) : warning LNK4099: 未找到 PDB“raylib.pdb”(使用“raylib.lib(rshapes.obj)”或在“D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\raylib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+raylib.lib(rtext.obj) : warning LNK4099: 未找到 PDB“raylib.pdb”(使用“raylib.lib(rtext.obj)”或在“D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\raylib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+raylib.lib(rtextures.obj) : warning LNK4099: 未找到 PDB“raylib.pdb”(使用“raylib.lib(rtextures.obj)”或在“D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\raylib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+raylib.lib(utils.obj) : warning LNK4099: 未找到 PDB“raylib.pdb”(使用“raylib.lib(utils.obj)”或在“D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\raylib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  L3.vcxproj -> D:\FE\programm\advanced FE\LearnC\learn_c\c2\C入门课1_vs\Debug\L3.exe
